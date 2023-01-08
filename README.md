@@ -1,4 +1,5 @@
 # vue.js_study
+- 샘플코드 : https://github.com/joshua1988/vue-advanced/tree/3_api
 - 실습 클론사이트: Hacker News_https://news.ycombinator.com/
 - api문서 : https://github.com/tastejs/hacker-news-pwas/blob/master/docs/api.md
 ![hackerNews](https://user-images.githubusercontent.com/73373898/211205701-13e60b00-cc53-4e56-9cc7-b6d441ae9c09.png)
